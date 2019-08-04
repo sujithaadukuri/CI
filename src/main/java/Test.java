@@ -7,7 +7,7 @@ public class Test {
     public void test11(){
     System.setProperty("webdriver.chrome.driver","C:\\Users\\User\\IdeaProjects\\Selenium\\chromedriver_win32\\chromedriver.exe");
     driver=new ChromeDriver();
-    driver.get("https://www.gmail.com");
+    driver.get("https://www.flipkart.com");
 
     driver.close();
     }
